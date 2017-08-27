@@ -1,0 +1,24 @@
+{
+  "type": "datasource",
+  "name": "Application Insights",
+  "id": "appinsights",
+
+  "includes": [
+    
+  ],
+
+  "metrics": true,
+  "alerting": true,
+  "annotations": true,
+
+  "info": {
+    "author": {
+      "name": "Gabriel Nepomuceno",
+      "url": "http://grafana.org"
+    },
+    "logos": {
+      "small": "img/ai.svg",
+      "large": "img/ai.svg"
+    }
+  }
+}
